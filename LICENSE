@@ -1,0 +1,9 @@
+Commits del kernel de Linux, 2019–2026, etiquetados por Fixes:
+Copyright (c) 2026 Juan Felipe Rodríguez Galindo
+
+La tabla de datos que se distribuye en los releases de este repositorio se
+publica bajo la licencia Creative Commons Atribución 4.0 Internacional
+(CC BY 4.0): https://creativecommons.org/licenses/by/4.0/legalcode.es
+
+Los datos se derivan de los metadatos públicos del repositorio del kernel
+de Linux (https://github.com/torvalds/linux), cuyo código es GPL-2.0.
